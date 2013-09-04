@@ -1,16 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Alexander Davydov]]></title>
   <link href="http://nyddle.github.io/atom.xml" rel="self"/>
   <link href="http://nyddle.github.io/"/>
-  <updated>2013-09-04T19:40:09+04:00</updated>
+  <updated>2013-09-05T01:26:26+04:00</updated>
   <id>http://nyddle.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
-    
+    <name><![CDATA[Alexander Davydov]]></name>
+    <email><![CDATA[nyddle@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA["Digital Machine" office opening]]></title>
+    <link href="http://nyddle.github.io/blog/2013/09/05/digital-machine-office-opening/"/>
+    <updated>2013-09-05T01:15:00+04:00</updated>
+    <id>http://nyddle.github.io/blog/2013/09/05/digital-machine-office-opening</id>
+    <content type="html"><![CDATA[<p>The event took place this weekeend at Danylovskie Manufaktury, Moscow which is where the DM new office is located.
+Opening was held by DM CEO who&rsquo;s name I forgot. The spectacular elevation of Duckie&rsquo;s Friend, Russian
+writer Dmitry Evgenyevich Galkovsky was accompanied with tragical music that symbolised his hard path to SUCCESS.</p>
+]]></content>
+  </entry>
   
 </feed>
