@@ -2,11 +2,15 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://nyddle.github.io/blog/archives/</loc>
-        <lastmod>2013-09-04T19:25:58+04:00</lastmod>
+        <lastmod>2013-09-04T19:39:33+04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://nyddle.github.io/blog/categories/</loc>
+        <lastmod>2013-09-04T19:39:33+04:00</lastmod>
     </url>
     <url>
         <loc>http://nyddle.github.io/</loc>
-        <lastmod>2013-09-04T19:25:58+04:00</lastmod>
+        <lastmod>2013-09-04T19:39:33+04:00</lastmod>
     </url>
     <url>
         <loc>http://nyddle.github.io/robots.txt</loc>
