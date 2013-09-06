@@ -4,7 +4,7 @@
   <title><![CDATA[Alexander Davydov]]></title>
   <link href="http://nyddle.github.io/atom.xml" rel="self"/>
   <link href="http://nyddle.github.io/"/>
-  <updated>2013-09-05T02:28:50+04:00</updated>
+  <updated>2013-09-06T22:43:25+04:00</updated>
   <id>http://nyddle.github.io/</id>
   <author>
     <name><![CDATA[Alexander Davydov]]></name>
@@ -12,6 +12,38 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[из парижского цикла]]></title>
+    <link href="http://nyddle.github.io/blog/2013/09/06/iz-parizhskogho-tsikla/"/>
+    <updated>2013-09-06T22:41:00+04:00</updated>
+    <id>http://nyddle.github.io/blog/2013/09/06/iz-parizhskogho-tsikla</id>
+    <content type="html"><![CDATA[<h1>на Rue Saint Jean</h1>
+
+<p>Сандро Давыдян, накрывай дастархан:
+казан, фазан, нарзан, Сезанн</p>
+
+<p>дела не фонтан
+на Rue Saint Jean</p>
+
+<p>дела не ажур &ndash;
+жо не манж па си жур</p>
+
+<p>из культур мультур дай тано фобур
+из Антуана Стендаля дай аджапсандали</p>
+
+<p>без культуры, братка, fait male</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Weird error installing greyshade theme]]></title>
+    <link href="http://nyddle.github.io/blog/2013/09/06/weird-error-installing-greyshade-theme/"/>
+    <updated>2013-09-06T15:42:00+04:00</updated>
+    <id>http://nyddle.github.io/blog/2013/09/06/weird-error-installing-greyshade-theme</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA["Digital Machine" office opening]]></title>
