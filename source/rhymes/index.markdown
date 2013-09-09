@@ -1,10 +1,13 @@
 ---
-layout: post
-title: "из парижского цикла"
-date: 2013-09-06 22:41
+layout: page
+title: "rhymes"
+date: 2013-09-07 01:48
 comments: true
-categories: 
+sharing: true
+footer: true
 ---
+
+##на Rue Saint Jean
 
 Сандро Давыдян, накрывай дастархан:
 казан, фазан, нарзан, Сезанн
