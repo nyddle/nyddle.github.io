@@ -1,48 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Alexander Davydov]]></title>
+  <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://nyddle.github.io/atom.xml" rel="self"/>
   <link href="http://nyddle.github.io/"/>
-  <updated>2013-09-10T01:22:38+04:00</updated>
+  <updated>2013-09-16T02:56:14+04:00</updated>
   <id>http://nyddle.github.io/</id>
   <author>
-    <name><![CDATA[Alexander Davydov]]></name>
-    <email><![CDATA[nyddle@gmail.com]]></email>
+    <name><![CDATA[Your Name]]></name>
+    
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
   
   <entry>
-    <title type="html"><![CDATA[Founders Institute Moscow late 2013]]></title>
-    <link href="http://nyddle.github.io/blog/2013/09/10/founders-institute-moscow-late-2013/"/>
-    <updated>2013-09-10T00:38:00+04:00</updated>
-    <id>http://nyddle.github.io/blog/2013/09/10/founders-institute-moscow-late-2013</id>
-    <content type="html"><![CDATA[<p>In March I luckily converted into a Founders Institute applicant from a crappy banner on a local startup community site. FI is an American startup accelerator franchisee that takes $1000 and 3.5% of your business in exchange for some solid startup advice packed into a four months course (weekly 2h+ lectures and huge home assignments).</p>
+    <title type="html"><![CDATA[Heroku CNAME settings]]></title>
+    <link href="http://nyddle.github.io/blog/2013/09/16/heroku-cname-settings/"/>
+    <updated>2013-09-16T02:28:00+04:00</updated>
+    <id>http://nyddle.github.io/blog/2013/09/16/heroku-cname-settings</id>
+    <content type="html"><![CDATA[<p>For those like me failing to properly configure ANAME records for Heroku
+here are some ip addresses digged from Heroku docs that can be used to configure CNAME:</p>
 
-<p>The program fully met my expectations: lots of networking, lulz and a decent kick-in-the-ass. I teamed with some great guys and we are ready to drop our next bomb that will shutter the internet. The course was really tough (only 30% of applicants got to the end) but I managed to outsource some home assignmens to my cofounder and happily graduated.</p>
+<p>@ A 174.129.212.2
+@ A 75.101.145.87
+@ A 75.101.163.44
+www CNAME yourapp.herokuapp.com.</p>
 
-<p>Adeo (FI CEO) turned out as cocky as we expected him to be from his lectures dropping our dream team for not meeting his stupid legal requirements (the details are too boring to get into). Anyway (thanx Dima Rockityanski superhero efforts) we won the battle and luckily graduated.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Weird error installing greyshade theme]]></title>
-    <link href="http://nyddle.github.io/blog/2013/09/06/weird-error-installing-greyshade-theme/"/>
-    <updated>2013-09-06T15:42:00+04:00</updated>
-    <id>http://nyddle.github.io/blog/2013/09/06/weird-error-installing-greyshade-theme</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA["Digital Machine" office opening]]></title>
-    <link href="http://nyddle.github.io/blog/2013/09/05/digital-machine-office-opening/"/>
-    <updated>2013-09-05T01:15:00+04:00</updated>
-    <id>http://nyddle.github.io/blog/2013/09/05/digital-machine-office-opening</id>
-    <content type="html"><![CDATA[<p>The event took place this weekeend at Danylovskie Manufaktury, Moscow which is where the DM new office is located.
-Opening was held by DM CEO who&rsquo;s name I forgot. The spectacular elevation of Duckie&rsquo;s Friend, Russian
-writer Dmitry Evgenyevich Galkovsky was accompanied with tragical music that symbolised his hard path to SUCCESS.</p>
+<p>Sure, it&rsquo;s a bad practice and should be used only in despair.</p>
 ]]></content>
   </entry>
   

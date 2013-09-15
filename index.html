@@ -1,224 +1,151 @@
 
-<!DOCTYPE HTML>
-
-<html>
-
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
-	<meta charset="utf-8">
-	<title>Alexander Davydov</title>
-	<meta name="author" content="Alexander Davydov">
+  <meta charset="utf-8">
+  <title>My Octopress Blog</title>
+  <meta name="author" content="Your Name">
 
-	
-	<meta name="description" content="Sep 10th, 2013 Founders Institute Moscow Late 2013 In March I luckily converted into a Founders Institute applicant from a crappy banner on a local &hellip;">
-	
+  
+  <meta name="description" content="For those like me failing to properly configure ANAME records for Heroku
+here are some ip addresses digged from Heroku docs that can be used to &hellip;">
+  
 
   <!-- http://t.co/dKP3o1e -->
   <meta name="HandheldFriendly" content="True">
   <meta name="MobileOptimized" content="320">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<link href="/atom.xml" rel="alternate" title="Alexander Davydov" type="application/atom+xml">
-	
-	<link rel="canonical" href="http://nyddle.github.io/">
-	<link href="/favicon.png" rel="shortcut icon">
-	<link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-	<link href="/stylesheets/font-awesome.min.css" media="screen, projection" rel="stylesheet" type="text/css">
-	<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,700' rel='stylesheet' type='text/css'>
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-	<!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+  
+  <link rel="canonical" href="http://nyddle.github.io">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="My Octopress Blog" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/lib/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
 <link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 
+  
+
 </head>
 
-
-<body>
-	<div class="container">
-		<div class="left-col">
-			<div class="intrude-less">
-			<header id="header" class="inner"><div class="profilepic">
-	<script src="/javascripts/md5.js"></script>
-	<script type="text/javascript">
-		$(function(){
-			$('.profilepic').append("<img src='http://www.gravatar.com/avatar/" + MD5("nyddle@gmail.com") + "?s=160' alt='Profile Picture' style='width: 160px;' />");
-		});
-	</script>
-</div>
-<hgroup>
-  <h1><a href="/">Alexander Davydov</a></h1>
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">My Octopress Blog</a></h1>
+  
+    <h2>A blogging framework for hackers.</h2>
   
 </hgroup>
 
-<nav id="main-nav"><ul class="main-navigation">
-  <li><a href="/rhymes">Rhymes</a></li>
-  <li><a href="/quotes">Quotes</a></li>
-  <li><a href="/links">Links</a></li>
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:nyddle.github.io" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
   <li><a href="/">Blog</a></li>
   <li><a href="/blog/archives">Archives</a></li>
 </ul>
 
+</nav>
+  <div id="main">
+    <div id="content">
+      <div class="blog-index">
+  
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2013/09/16/heroku-cname-settings/">Heroku CNAME Settings</a></h1>
+    
+    
+      <p class="meta">
+        
 
-<section class="aboutme">
-  <p>
-    Hi! I'm a programmer, poet and culturologist based in Moscow, Russia.
-  </p>
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-09-16T02:28:00+04:00" pubdate data-updated="true">Sep 16<span>th</span>, 2013</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>For those like me failing to properly configure ANAME records for Heroku
+here are some ip addresses digged from Heroku docs that can be used to configure CNAME:</p>
+
+<p>@ A 174.129.212.2
+@ A 75.101.145.87
+@ A 75.101.163.44
+www CNAME yourapp.herokuapp.com.</p>
+
+<p>Sure, it&rsquo;s a bad practice and should be used only in despair.</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  <div class="pagination">
+    
+    <a href="/blog/archives">Blog Archives</a>
+    
+  </div>
+</div>
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2013/09/16/heroku-cname-settings/">Heroku CNAME Settings</a>
+      </li>
+    
+  </ul>
 </section>
-</nav>
-<nav id="sub-nav">
-	<div class="social">
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		<a class="rss" href="/atom.xml" title="RSS">RSS</a>
-		
-	</div>
-</nav>
-</header>				
-			</div>
-		</div>	
-		<div class="mid-col">
-			
-				
-			
-			<div class="mid-col-container">
-				<div id="content" class="inner">
-<div itemscope itemtype="http://schema.org/Blog">
-
-
-    <article class="post" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
-	<div class="meta">
-		<div class="date">
-
-
-
 
 
 
 
 
   
+</aside>
 
-
-<time datetime="2013-09-10T00:38:00+04:00" data-updated="true" itemprop="datePublished">Sep 10<span>th</span>, 2013</time></div>
-		<div class="tags">
-
-</div>
-		
-	</div>
-	<h1 class="title" itemprop="name"><a href="/blog/2013/09/10/founders-institute-moscow-late-2013/" itemprop="url">Founders Institute Moscow Late 2013</a></h1>
-	<div class="entry-content" itemprop="articleBody">
-		<p>In March I luckily converted into a Founders Institute applicant from a crappy banner on a local startup community site. FI is an American startup accelerator franchisee that takes $1000 and 3.5% of your business in exchange for some solid startup advice packed into a four months course (weekly 2h+ lectures and huge home assignments).</p>
-
-<p>The program fully met my expectations: lots of networking, lulz and a decent kick-in-the-ass. I teamed with some great guys and we are ready to drop our next bomb that will shutter the internet. The course was really tough (only 30% of applicants got to the end) but I managed to outsource some home assignmens to my cofounder and happily graduated.</p>
-
-<p>Adeo (FI CEO) turned out as cocky as we expected him to be from his lectures dropping our dream team for not meeting his stupid legal requirements (the details are too boring to get into). Anyway (thanx Dima Rockityanski superhero efforts) we won the battle and luckily graduated.</p>
-
-		
-		
-	</div>
-
-</article>
-
-
-    <article class="post" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
-	<div class="meta">
-		<div class="date">
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2013-09-06T15:42:00+04:00" data-updated="true" itemprop="datePublished">Sep 6<span>th</span>, 2013</time></div>
-		<div class="tags">
-
-</div>
-		
-	</div>
-	<h1 class="title" itemprop="name"><a href="/blog/2013/09/06/weird-error-installing-greyshade-theme/" itemprop="url">Weird Error Installing Greyshade Theme</a></h1>
-	<div class="entry-content" itemprop="articleBody">
-		
-
-		
-		
-	</div>
-
-</article>
-
-
-    <article class="post" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
-	<div class="meta">
-		<div class="date">
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2013-09-05T01:15:00+04:00" data-updated="true" itemprop="datePublished">Sep 5<span>th</span>, 2013</time></div>
-		<div class="tags">
-
-</div>
-		
-	</div>
-	<h1 class="title" itemprop="name"><a href="/blog/2013/09/05/digital-machine-office-opening/" itemprop="url">&#8220;Digital Machine&#8221; Office Opening</a></h1>
-	<div class="entry-content" itemprop="articleBody">
-		<p>The event took place this weekeend at Danylovskie Manufaktury, Moscow which is where the DM new office is located.
-Opening was held by DM CEO who&rsquo;s name I forgot. The spectacular elevation of Duckie&rsquo;s Friend, Russian
-writer Dmitry Evgenyevich Galkovsky was accompanied with tragical music that symbolised his hard path to SUCCESS.</p>
-
-		
-		
-	</div>
-
-</article>
-
-</div>
-<nav id="pagenavi">
-    
-    
-    <div class="center"><a href="/blog/archives">Blog Archives</a></div>
-</nav></div>
-			</div>
-			<footer id="footer" class="inner"><p>
-  Copyright &copy; 2013 - Alexander Davydov -
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2013 - Your Name -
   <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
 </p>
 
-Design credit: <a href="http://shashankmehta.in/archive/2012/greyshade.html">Shashank Mehta</a></footer>
-			
-
-<script type="text/javascript">
-      var disqus_shortname = 'nyddle';
-      
-        
-        var disqus_script = 'count.js';
-      
-    (function () {
-      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
-      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    }());
-</script>
+</footer>
+  
 
 
 
@@ -231,7 +158,7 @@ Design credit: <a href="http://shashankmehta.in/archive/2012/greyshade.html">Sha
       var twitterWidgets = document.createElement('script');
       twitterWidgets.type = 'text/javascript';
       twitterWidgets.async = true;
-      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
       document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
     })();
   </script>
@@ -240,7 +167,5 @@ Design credit: <a href="http://shashankmehta.in/archive/2012/greyshade.html">Sha
 
 
 
-		</div>
-	</div>
 </body>
 </html>
