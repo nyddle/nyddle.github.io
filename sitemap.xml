@@ -1,16 +1,48 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://nyddle.github.io/blog/2013/09/05/digital-machine-office-opening/</loc>
+        <lastmod>2013-09-17T02:03:54+04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://nyddle.github.io/blog/2013/09/06/weird-error-installing-greyshade-theme/</loc>
+        <lastmod>2013-09-17T02:03:54+04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://nyddle.github.io/blog/2013/09/10/founders-institute-moscow-late-2013/</loc>
+        <lastmod>2013-09-17T02:03:54+04:00</lastmod>
+    </url>
+    <url>
         <loc>http://nyddle.github.io/blog/2013/09/16/heroku-cname-settings/</loc>
-        <lastmod>2013-09-16T02:55:29+04:00</lastmod>
+        <lastmod>2013-09-17T02:04:53+04:00</lastmod>
     </url>
     <url>
         <loc>http://nyddle.github.io/blog/archives/</loc>
-        <lastmod>2013-09-16T02:55:29+04:00</lastmod>
+        <lastmod>2013-09-17T02:04:53+04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://nyddle.github.io/blog/categories/</loc>
+        <lastmod>2013-09-17T02:03:54+04:00</lastmod>
     </url>
     <url>
         <loc>http://nyddle.github.io/</loc>
-        <lastmod>2013-09-16T02:55:29+04:00</lastmod>
+        <lastmod>2013-09-17T02:04:53+04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://nyddle.github.io/links/</loc>
+        <lastmod>2013-09-17T02:03:54+04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://nyddle.github.io/poetry/</loc>
+        <lastmod>2013-09-17T02:03:54+04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://nyddle.github.io/quotes/</loc>
+        <lastmod>2013-09-17T02:03:54+04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://nyddle.github.io/rhymes/</loc>
+        <lastmod>2013-09-17T02:03:54+04:00</lastmod>
     </url>
     <url>
         <loc>http://nyddle.github.io/robots.txt</loc>
