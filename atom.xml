@@ -4,7 +4,7 @@
   <title><![CDATA[Alexander Davydov]]></title>
   <link href="http://nyddle.github.io/atom.xml" rel="self"/>
   <link href="http://nyddle.github.io/"/>
-  <updated>2013-09-17T02:05:13+04:00</updated>
+  <updated>2013-09-19T01:30:27+04:00</updated>
   <id>http://nyddle.github.io/</id>
   <author>
     <name><![CDATA[Alexander Davydov]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Blogging tip #1]]></title>
+    <link href="http://nyddle.github.io/blog/2013/09/19/blogging-tip-number-1/"/>
+    <updated>2013-09-19T01:28:00+04:00</updated>
+    <id>http://nyddle.github.io/blog/2013/09/19/blogging-tip-number-1</id>
+    <content type="html"><![CDATA[<p>Save yourself some time, don&rsquo;t use Google Analytics.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Heroku CNAME settings]]></title>
