@@ -4,7 +4,7 @@
   <title><![CDATA[Alexander Davydov]]></title>
   <link href="http://nyddle.github.io/atom.xml" rel="self"/>
   <link href="http://nyddle.github.io/"/>
-  <updated>2013-09-19T01:30:27+04:00</updated>
+  <updated>2013-09-20T01:17:36+04:00</updated>
   <id>http://nyddle.github.io/</id>
   <author>
     <name><![CDATA[Alexander Davydov]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Running Lean]]></title>
+    <link href="http://nyddle.github.io/blog/2013/09/20/running-lean/"/>
+    <updated>2013-09-20T01:11:00+04:00</updated>
+    <id>http://nyddle.github.io/blog/2013/09/20/running-lean</id>
+    <content type="html"><![CDATA[<ul>
+<li>our landing got the whole one signup, let&rsquo;s come up with another idea</li>
+<li>((( landing doesn&rsquo;t work, let&rsquo;s make an mvp!</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Blogging tip #1]]></title>
