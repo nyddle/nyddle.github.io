@@ -4,7 +4,7 @@
   <title><![CDATA[Alexander Davydov]]></title>
   <link href="http://nyddle.github.io/atom.xml" rel="self"/>
   <link href="http://nyddle.github.io/"/>
-  <updated>2013-09-20T01:18:28+04:00</updated>
+  <updated>2013-09-20T01:23:31+04:00</updated>
   <id>http://nyddle.github.io/</id>
   <author>
     <name><![CDATA[Alexander Davydov]]></name>
@@ -18,8 +18,8 @@
     <link href="http://nyddle.github.io/blog/2013/09/20/running-lean/"/>
     <updated>2013-09-20T01:11:00+04:00</updated>
     <id>http://nyddle.github.io/blog/2013/09/20/running-lean</id>
-    <content type="html"><![CDATA[<p>- our landing got the whole one signup, let&rsquo;s come up with another idea
-- ((( landing doesn&rsquo;t work, let&rsquo;s make an mvp!</p>
+    <content type="html"><![CDATA[<p>me: our landing got the whole one signup, let&rsquo;s come up with another idea
+dev: ((( landing doesn&rsquo;t work, let&rsquo;s make an mvp!</p>
 ]]></content>
   </entry>
   
