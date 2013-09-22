@@ -4,7 +4,7 @@
   <title><![CDATA[Alexander Davydov]]></title>
   <link href="http://nyddle.github.io/atom.xml" rel="self"/>
   <link href="http://nyddle.github.io/"/>
-  <updated>2013-09-20T01:28:57+04:00</updated>
+  <updated>2013-09-23T00:50:02+04:00</updated>
   <id>http://nyddle.github.io/</id>
   <author>
     <name><![CDATA[Alexander Davydov]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[ElasticSearch vs MongoDB]]></title>
+    <link href="http://nyddle.github.io/blog/2013/09/22/elasticsearch-vs-mongodb/"/>
+    <updated>2013-09-22T23:07:00+04:00</updated>
+    <id>http://nyddle.github.io/blog/2013/09/22/elasticsearch-vs-mongodb</id>
+    <content type="html"><![CDATA[<p>Lately I&rsquo;ve been crafting a small one-page app (job board) with all kinds of filters / faceted search.
+Inspired by this great talk with a nice Italian accent (<a href="https://speakerdeck.com/nicola/developing-restful-web-apis-with-python-flask-and-mongodb">slides</a> and
+<a href="https://ep2013.europython.eu/conference/talks/developing-restful-web-apis-with-python-flask-and-mongodb">video</a>) I took Flask / MongoDB and backbone.js for frontend.
+And was fully content with it until I found ElasticSearch that completely eliminated the need for api calls while filtering/searching: backbone can talk directly
+to elasticsearch server. ElasticSearch is awesome, can&rsquo;t wait to tinker with it again on the next project.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Running Lean]]></title>
